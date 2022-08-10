@@ -1,0 +1,16 @@
+C:\Users\ALUNOS\Desktop\willian\bin\Debug\net5.0\willian.exe
+C:\Users\ALUNOS\Desktop\willian\bin\Debug\net5.0\willian.deps.json
+C:\Users\ALUNOS\Desktop\willian\bin\Debug\net5.0\willian.runtimeconfig.json
+C:\Users\ALUNOS\Desktop\willian\bin\Debug\net5.0\willian.runtimeconfig.dev.json
+C:\Users\ALUNOS\Desktop\willian\bin\Debug\net5.0\willian.dll
+C:\Users\ALUNOS\Desktop\willian\bin\Debug\net5.0\willian.pdb
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\willian.csproj.AssemblyReference.cache
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\willian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\willian.AssemblyInfoInputs.cache
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\willian.AssemblyInfo.cs
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\willian.csproj.CoreCompileInputs.cache
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\willian.dll
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\refint\willian.dll
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\willian.pdb
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\willian.genruntimeconfig.cache
+C:\Users\ALUNOS\Desktop\willian\obj\Debug\net5.0\ref\willian.dll
