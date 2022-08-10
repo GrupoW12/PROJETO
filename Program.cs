@@ -20,7 +20,7 @@ namespace willian
                     Console.WriteLine("O número é igual a zero!");
                 }
                 Console.WriteLine("----------------------------------------------------------------------------");
-                Console.WriteLine("Deseja joga novamente?");
+                Console.WriteLine("Deseja jogar novamente?");
                 string resposta = Console.ReadLine();
                 if(resposta != "sim"){
                     ativador = 0;
